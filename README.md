@@ -1,3 +1,6 @@
+# Go to the website online 
+Open [https://delicate-block-8859.on.fleek.co/](https://delicate-block-8859.on.fleek.co/) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
